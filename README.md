@@ -9,11 +9,29 @@
 
 <h3 id="social">Contact me</h3>
 
-![Codepen Badge](https://img.shields.io/badge/-rohitutekar-000000?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/rohitutekar)
-![LinkedIn Badge](https://img.shields.io/badge/-rohitutekar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-utekar/)
-![Stackoverflow Badge](https://img.shields.io/badge/-rohitutekar-F58025?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/6662695/rohit-utekar)
-![Instagram Badge](https://img.shields.io/badge/-@roh.it.3-D7008A?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/roh.it.3)
-![Twitter Badge](https://img.shields.io/badge/-@UtekarRohit-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/UtekarRohit)
+<div align="center">
+<a href="https://github.com/rohitutekar" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/UtekarRohit" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/rohitutekar" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/rohit-utekar" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/roh.it.3" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/rohitutekar" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/rohit-utekar" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
+</div>
 
 ## My Skillset  
 <table><tr><td valign="top" width="33%">
